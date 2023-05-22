@@ -9,7 +9,6 @@ In Short-Term Load Forecasting (STLF), the aim is to estimate the load for the n
 ---
 ### NOTE
 
-This research work is currently under review process. The whole repository will be published after the research paper comes online. 
 
 
 Preprints DOI: 10.36227/techrxiv.16807213.v1
